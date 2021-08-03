@@ -4,4 +4,4 @@
 
 If You Want Install Termux-Root Copy This Code:
 
-`bash <(curl -s )`
+`bash <(curl -s https://raw.githubusercontent.com/IzyanzZ/termux-root/main/root.sh)`
